@@ -3,7 +3,7 @@
 
 This repo contains all the research paper which I read along their annotations. The papers will be mainly based on Quantum Computing (PHOTONICS And Quantum Internet) along with Hardware Accelerators for Machine Learning and it's application in interdisciplanary areas
 
-| Command | Description |
+| Section | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| Quantum Photonics | List all papers related to quantum computing |
 | `git diff` | Show file differences that **haven't been** staged |
