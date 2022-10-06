@@ -6,4 +6,4 @@ This repo contains all the research paper which I read along their annotations. 
 | Section | Description |
 | --- | --- |
 | Quantum Photonics | List all papers related to quantum computing |
-| `git diff` | Show file differences that **haven't been** staged |
+| Fundamental Mathematics | List of all papers related to research in Mathematics Fundamentals |
