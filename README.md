@@ -5,5 +5,6 @@ This repo contains all the research paper which I read along their annotations. 
 
 | Section | Description |
 | --- | --- |
-| Quantum Photonics | List all papers related to quantum computing |
+| Quantum  | List all papers related to quantum computing |
 | Fundamental Mathematics | List of all papers related to research in Mathematics Fundamentals |
+| Environment | List of all papers related to application of technology in Environment and Climate |
